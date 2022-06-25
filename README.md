@@ -3,7 +3,7 @@
 https://github.com/settings/tokens 
 ```
 ### 세팅추가
-# depoly 할때는 추가해야함
+depoly 할때는 추가해야함
 ```
 <?xml version="1.0" encoding="UTF-8"?>
 <settings xmlns="http://maven.apache.org/SETTINGS/1.0.0" 
