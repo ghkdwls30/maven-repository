@@ -1,4 +1,7 @@
-## 세팅추가
+# 토큰발급
+https://github.com/settings/tokens 
+
+# 세팅추가
 
 <?xml version="1.0" encoding="UTF-8"?>
 <settings xmlns="http://maven.apache.org/SETTINGS/1.0.0" 
@@ -12,7 +15,9 @@
   </servers>
 </settings>
 
-## 레포지토리 추가
+
+
+# 레포지토리 추가
 
 <repositories>
 	<repository>
@@ -21,7 +26,7 @@
 	</repository>
 </repositories>
 
-## 디펜던시 설정
+# 디펜던시 설정
 <dependencies>
 	<dependency>
 		<groupId>kr.jframework</groupId>
