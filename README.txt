@@ -14,9 +14,18 @@
 
 ## 레포지토리 추가
 
-	<repositories>
-		<repository>
-			<id>ghkdwls-repo</id>
-			<url>https://github.com/ghkdwls30/maven-repository/</url>
-		</repository>
-	</repositories>
+<repositories>
+	<repository>
+		<id>ghkdwls-repo</id>
+		<url>https://github.com/ghkdwls30/maven-repository/tree/main</url>
+	</repository>
+</repositories>
+
+## 디펜던시 설정
+<dependencies>
+	<dependency>
+		<groupId>kr.jframework</groupId>
+		<artifactId>core</artifactId>
+		<version>1.0.0-REALEASE</version>
+	</dependency>
+</dependencies>
