@@ -1,3 +1,5 @@
+## 세팅추가
+
 <?xml version="1.0" encoding="UTF-8"?>
 <settings xmlns="http://maven.apache.org/SETTINGS/1.0.0" 
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
@@ -9,3 +11,12 @@
     </server>
   </servers>
 </settings>
+
+## 레포지토리 추가
+
+	<repositories>
+		<repository>
+			<id>ghkdwls-repo</id>
+			<url>https://github.com/ghkdwls30/maven-repository/</url>
+		</repository>
+	</repositories>
