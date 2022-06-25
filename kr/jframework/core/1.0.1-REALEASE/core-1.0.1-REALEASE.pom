@@ -5,10 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>kr.jframework</groupId>
     <artifactId>core</artifactId>
-    <version>1.0.0-REALEASE</version>
+    <version>1.0.1-REALEASE</version>
 
     <properties>
         <java.version>1.8</java.version>
+        <github.global.server>github</github.global.server>
     </properties>
 
     <dependencies>
@@ -110,7 +111,7 @@
                 <artifactId>site-maven-plugin</artifactId>
                 <version>0.12</version>
                 <configuration>
-                    <message>Maven artifacts for sdf ${project.version}</message>  <!-- git commit message -->
+                    <message>Maven artifacts for ${project.version}</message>  <!-- git commit message -->
                     <noJekyll>true</noJekyll>
                     <outputDirectory>${project.build.directory}/mvn-repo</outputDirectory> <!-- matches distribution management repository url above -->
                     <branch>refs/heads/mvn-repo</branch>                       <!-- remote branch name -->
@@ -118,7 +119,7 @@
                     <merge>true</merge>
                     <repositoryName>maven-repository</repositoryName>      <!-- github repo name -->
                     <repositoryOwner>ghkdwls30</repositoryOwner>    <!-- github username  -->
-                    <oauth2Token>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</oauth2Token>
+                    <oauth2Token>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</oauth2Token>
                 </configuration>
                 <executions>
                     <execution>
