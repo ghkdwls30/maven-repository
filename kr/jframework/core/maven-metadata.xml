@@ -3,10 +3,11 @@
   <groupId>kr.jframework</groupId>
   <artifactId>core</artifactId>
   <versioning>
-    <release>1.0.0-REALEASE</release>
+    <release>1.0.1-REALEASE</release>
     <versions>
       <version>1.0.0-REALEASE</version>
+      <version>1.0.1-REALEASE</version>
     </versions>
-    <lastUpdated>20220625030154</lastUpdated>
+    <lastUpdated>20220625030252</lastUpdated>
   </versioning>
 </metadata>
