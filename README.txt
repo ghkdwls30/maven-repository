@@ -7,7 +7,7 @@
    <servers>
     <server>
       <id>github</id>
-      <password>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</password>
+      <password>XXXXXXXXXXXXXXXXX</password>
     </server>
   </servers>
 </settings>
