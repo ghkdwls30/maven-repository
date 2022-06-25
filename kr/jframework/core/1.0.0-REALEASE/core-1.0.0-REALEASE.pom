@@ -119,7 +119,7 @@
                     <merge>true</merge>
                     <repositoryName>maven-repository</repositoryName>
                     <repositoryOwner>ghkdwls30</repositoryOwner>
-                    <oauth2Token>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 </oauth2Token>
+<!--                    <oauth2Token>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 </oauth2Token>-->
                 </configuration>
                 <executions>
                     <execution>
