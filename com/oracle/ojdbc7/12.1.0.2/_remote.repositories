@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Jun 25 16:30:02 KST 2022
+ojdbc7-12.1.0.2.jar>oracle=
+ojdbc7-12.1.0.2.pom>oracle=
